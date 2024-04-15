@@ -11,7 +11,7 @@ Contains the dataset primarily used for generating embeddings of wine names and 
 ### `demo`
 Includes scripts to build and run the user interface of the application. The application is developed using Expo and Next.js, enabling both web and mobile interfaces.
 
-### `notebook`
+### `notebooks`
 This directory houses Jupyter notebooks for:
 - Exploratory Data Analysis (EDA) to understand dataset characteristics.
 - Generating embeddings using various machine learning models.
@@ -24,9 +24,10 @@ Scripts in this folder include:
 - `open_ai_embeddings.py`: Script to generate embeddings using different models, based on OpenAI's techniques.
 - `eval_embedding_model.py`: Evaluates the performance of the embedding-based recommendation system.
 
+### `requirements.txt`
+Lists all the necessary Python packages and libraries required to run the project. Ensure all dependencies are installed by running:
+
 ### `setup.py`
 A setup script to prepare the environment for generating embeddings, running the KNN model, and evaluating the system.
 
-### `requirements.txt`
-Lists all the necessary Python packages and libraries required to run the project. Ensure all dependencies are installed by running:
 
