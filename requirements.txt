@@ -1,0 +1,9 @@
+pymongo
+certifi
+pymongo.errors
+pandas
+openai
+sentence_transformers
+sklearn.neighbors
+sklearn.preprocessing
+numpy
