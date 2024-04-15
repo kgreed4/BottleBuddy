@@ -6,7 +6,7 @@ This project aims to provide users with tailored wine recommendations based on t
 ## Project Structure
 
 ### `data`
-Contains the dataset primarily used for generating embeddings of wine names and their descriptions, which are crucial for the recommendation system.
+Contains the dataset primarily used for generating embeddings of wine names and their descriptions, which are crucial for the recommendation system. The Kaggle link to find the dataset can be found at: https://www.kaggle.com/datasets/zynicide/wine-reviews
 
 ### `demo`
 Includes scripts to build and run the user interface of the application. The application is developed using Expo and Next.js, enabling both web and mobile interfaces.
@@ -30,6 +30,3 @@ A setup script to prepare the environment for generating embeddings, running the
 ### `requirements.txt`
 Lists all the necessary Python packages and libraries required to run the project. Ensure all dependencies are installed by running:
 
-
-# BottleBuddy
-https://www.kaggle.com/datasets/zynicide/wine-reviews
