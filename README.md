@@ -25,7 +25,7 @@ Scripts in this folder include:
 - `eval_embedding_model.py`: Evaluates the performance of the embedding-based recommendation system.
 
 ### `requirements.txt`
-Lists all the necessary Python packages and libraries required to run the project. Ensure all dependencies are installed by running:
+Lists all the necessary Python packages and libraries required to run the project.
 
 ### `setup.py`
 A setup script to prepare the environment for generating embeddings, running the KNN model, and evaluating the system.
