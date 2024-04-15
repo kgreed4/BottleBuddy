@@ -24,7 +24,7 @@ Scripts in this folder include:
 - `open_ai_embeddings.py`: Script to generate embeddings using different models, based on OpenAI's techniques.
 - `eval_embedding_model.py`: Evaluates the performance of the embedding-based recommendation system.
 
-### `/setup.py`
+### `setup.py`
 A setup script to prepare the environment for generating embeddings, running the KNN model, and evaluating the system.
 
 ### `requirements.txt`
