@@ -1,4 +1,4 @@
-# Wine Recommendation System
+# BottleBuddy: Wine Recommendation System
 
 ## Goal
 This project aims to provide users with tailored wine recommendations based on their taste preferences. Using various embedding models, we generate latent spaces through embedding cosine similarity to deliver precise and delectable wine recommendations.
